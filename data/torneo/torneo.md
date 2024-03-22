@@ -1,3 +1,4 @@
+[Inicio](../../README.md)
 # Torneo de Ping Pong
 
 ## Descripcion del proyecto
